@@ -1,2 +1,5 @@
-# UoLCS_CM1010_ChocolateShop
-UoL CS CM1010 course Chocolate Shop finished code
+# Module CM1010 Chocolate Shop coding exercise
+
+University of London Computer Science
+
+This is finished code.
